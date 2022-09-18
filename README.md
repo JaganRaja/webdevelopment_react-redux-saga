@@ -1,6 +1,6 @@
 ### ref
-https://www.telerik.com/blogs/handling-middleware-redux-saga
-https://redux-saga.js.org/docs/introduction/BeginnerTutorial/
+https://www.telerik.com/blogs/handling-middleware-redux-saga   && 
+https://redux-saga.js.org/docs/introduction/BeginnerTutorial/  &&
 techsith youtube
 
 # Getting Started with Create React App
