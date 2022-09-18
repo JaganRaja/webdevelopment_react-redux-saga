@@ -1,3 +1,8 @@
+### ref
+https://www.telerik.com/blogs/handling-middleware-redux-saga
+https://redux-saga.js.org/docs/introduction/BeginnerTutorial/
+techsith youtube
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
